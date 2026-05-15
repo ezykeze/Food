@@ -4,8 +4,9 @@
   "description": "",
   "main": "db.js",
   "scripts": {
-      "test": "echo \"Success\"",
-      "start": "node server.js"
+    "test": "echo \"Success\"",
+    "build": "echo \"No build step required\"",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
