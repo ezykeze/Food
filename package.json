@@ -4,7 +4,7 @@
   "description": "",
   "main": "db.js",
   "scripts": {
-    "test":  "echo \"Success\""
+    "test":  "echo \"Success\"",
     "start": "node server.js"
   },
   "keywords": [],
